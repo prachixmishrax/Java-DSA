@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary/binary.iml" filepath="$PROJECT_DIR$/binary/binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/doublyLinkedList/doublyLinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/doublyLinkedList/doublyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/sorting.iml" filepath="$PROJECT_DIR$/Sorting/sorting.iml" />
     </modules>

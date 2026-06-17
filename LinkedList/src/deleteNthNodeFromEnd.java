@@ -16,7 +16,7 @@ public class deleteNthNodeFromEnd {
             for (int i = 1; i <= n; i++) {
                 fast = fast.next;
             }
-            if (fast == head) {
+            if (fast == null) {
                 head = head.next;
                 return head;
             }
@@ -51,7 +51,7 @@ public class deleteNthNodeFromEnd {
         d.next=e;
         e.next=f;
         deleteNthNodeFromEnd.display(a);
-       a= deleteNthNodeFromEnd.removeNthFromEnd(a,6);
+        a= deleteNthNodeFromEnd.removeNthFromEnd(a,6);
         System.out.println();
         deleteNthNodeFromEnd.display(a);
     }
