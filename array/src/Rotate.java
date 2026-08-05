@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//roate the array
+//rotate the array
 public class Rotate {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
